@@ -1,4 +1,4 @@
-package reactive.secstion1.assignment;
+package reactive.mono.assignment;
 
 import reactor.core.publisher.Mono;
 

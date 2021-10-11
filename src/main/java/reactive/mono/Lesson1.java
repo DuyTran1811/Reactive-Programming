@@ -1,4 +1,4 @@
-package reactive.secstion1;
+package reactive.mono;
 
 import java.util.stream.Stream;
 

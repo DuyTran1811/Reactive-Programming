@@ -1,7 +1,7 @@
-package reactive.secstion1;
+package reactive.mono;
 
 import reactive.courseutil.Util;
-import reactive.secstion1.assignment.FileService;
+import reactive.mono.assignment.FileService;
 
 public class Lesson9AssignmentDemo {
     public static void main(String[] args) {
