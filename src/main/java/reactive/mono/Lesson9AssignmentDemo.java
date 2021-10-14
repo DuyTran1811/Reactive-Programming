@@ -5,7 +5,7 @@ import reactive.mono.assignment.FileService;
 
 public class Lesson9AssignmentDemo {
     public static void main(String[] args) {
-        FileService.read("file01.txt").subscribe(
+        FileService.read("file01.txt.txt").subscribe(
                 Util.onNext(),
                 Util.onError(),
                 Util.onComplete());
